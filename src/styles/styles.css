@@ -5,11 +5,14 @@
 }
 
 body {
+  font-family: "Poppins", sans-serif;
+}
+
+main {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  font-family: "Poppins", sans-serif;
 }
 
 .grid-container {
@@ -89,4 +92,15 @@ body {
 
 .white-text {
   color: #fff;
+}
+
+h1 {
+  font-size: 72px;
+  margin-left: 65px;
+  text-transform: uppercase;
+}
+
+.colour-palette-text {
+  background-color: #5c9dff;
+  padding: 20px;
 }
