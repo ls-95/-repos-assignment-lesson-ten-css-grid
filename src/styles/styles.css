@@ -21,6 +21,8 @@ body {
   width: 90vw;
 }
 
+/* Individual grid item placement and styling*/
+
 .grid-item {
   display: flex;
   justify-content: center;
